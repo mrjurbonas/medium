@@ -1,0 +1,7 @@
+altair==4.1.0
+jupyter==1.0.0
+nb-black==1.0.7
+pandas==1.0.3
+scikit-learn==0.23.1
+voila==0.1.21
+xlrd==1.2.0
